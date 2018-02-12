@@ -59,8 +59,7 @@
     
 end -%>
 [global]
-    font = <%= local! :font_name %> <%= local! :font_size %> 
-    
+    font = <%= local! :font_name %> <%= local! :font_size %>
     # Allow a small subset of html markup:
     #   <b>bold</b>
     #   <i>italic</i>
